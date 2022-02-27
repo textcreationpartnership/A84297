@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An experimentall essay touching the reformation of the lavves of England anno 1648. By an impartiall well-willer to the peace and well-beeing of all.</title>
+            <author>Impartiall well-willer to the peace and well-beeing of all.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84297</idno>
+            <idno type="STC">Wing E3880</idno>
+            <idno type="STC">Thomason E459_20</idno>
+            <idno type="STC">ESTC R201915</idno>
+            <idno type="EEBO-CITATION">99862397</idno>
+            <idno type="PROQUEST">99862397</idno>
+            <idno type="VID">114556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84297)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114556)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E459[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An experimentall essay touching the reformation of the lavves of England anno 1648. By an impartiall well-willer to the peace and well-beeing of all.</title>
+                  <author>Impartiall well-willer to the peace and well-beeing of all.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons in Aldersgate-streete,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114556:1"/>
+            <pb facs="tcp:114556:1" rendition="simple:additions"/>
+            <p>AN EXPERIMENTALL ESSAY TOUCHING THE REFORMATION <hi>OF THE</hi> LAWES OF <hi>ENGLAND</hi> Anno 1648. By an Impartiall Well-willer to the Peace and Well-beeing of All.</p>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>Matthew Simmons</hi> in <hi>Alderſgate</hi>-ſtreete. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb facs="tcp:114556:2"/>
+            <pb n="1" facs="tcp:114556:2"/>
+            <head>Concerning the LAWES.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O reduce the Lawes to brevity, let thoſe matters which are the occaſion of ſo many Lawes, be taken away, and let every one that ſhall ſu<g ref="char:EOLhyphen"/>ſtaine any damage in the Common-wealth by it, have juſt recompence and ſatisfaction for it. The whole Matter of all Lawes, is by Lawyers divided into Things, Perſons, and Actions: by Things, they meane that which Men really have and poſſeſſe of Goods and Lands: Perſons are differenced accor<g ref="char:EOLhyphen"/>ding to their ſeverall Conditions in the Common-wealth, and ſo have ſeverall Legall Capacities, which Nature hath not produced; thoſe which are differences in Nature cannot be taken away, but the other may in reference to the Lawes, though ſuch Diſtinctions may remaine ſtill in Common acception: And by Actions are meant the wayes and meanes to acquire their Right, by Proceſſe of Law, accord<g ref="char:EOLhyphen"/>ing to Bargaines, Contracts, Deeds, Wills, Treſpaſſes, and Matters concerning the Pleas of the Crowne, about Felonies, Treaſons, and Matters of the Peace. If theſe Three Generall Matters were reduced to their true naturall Singleneſſe, a ſhort roome would containe all the Lawes of any Common-wealth or Kingdome.</p>
+            <p>The Common Law in <hi>England,</hi> conſiſteth of many Auntient Cu<g ref="char:EOLhyphen"/>ſtomes; and to rectifie inconveniences in thoſe Cuſtomes, as grievan<g ref="char:EOLhyphen"/>ces have ariſen, Statutes have been made from time to time in Parlia<g ref="char:EOLhyphen"/>ments, which hath cauſed a Multiplying of Lawes, and ſeverall Sta<g ref="char:EOLhyphen"/>tutes, about ſeverall Clauſes in former Statutes, to the puſling of all people that are not Lawyers: and many Statutes have been made a<g ref="char:EOLhyphen"/>bout particular Cuſtomes of ſome Townes and Cities in the King<g ref="char:EOLhyphen"/>dome, which may be brought to one way alike throughout the King<g ref="char:EOLhyphen"/>dome; and it would make men better acquainted with every ones Right, through all the Kingdome: ſo that every honeſt underſtand<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:114556:3"/>Man would be as well able to judge of Right, as any Judge of the Law now is or can be.</p>
+            <p>If there were a Law made, that whoſoever did hurt another by Word or Deed, ſhould make recompence to the Party hurt, accord<g ref="char:EOLhyphen"/>ing to the quality of the Offence: people would be more carefull how they hurt any than now they are; when none know now, how to have recompence but a Lawyer, and that with more expence of Mo<g ref="char:EOLhyphen"/>ney and time, than moſt Injuries are worth: and if ſome people wrong one another, ſo they can keepe without Compaſſe of the Lawes, they care not what they doe.</p>
+            <p>There are ſmall payments out of Land, the omitting whereof, ſometime cauſeth the forfeiture of the Land, and how ever puſleth thoſe that are ignorant of the Lawes that now are ſo many; theſe ſmall Rents they pay by reaſon of that which is commonly called the Tenures in <hi>England,</hi> which were brought in by the Conquerour as to the Court of Wards, which though that be taken away, as to Knights Service in <hi>Capite,</hi> yet that ſlavery will remaine upon Peo<g ref="char:EOLhyphen"/>ple ſtill, as to free Soccage Tenure, to their Great trouble under that Court, and under Inferiour Mannours: yes, though all Lands ſhould hold by the freeſt Soccage Tenure that can be. But if all Tenures might be bought out by all owners of Land, for a ſumme of money ready downe, and ſo their Land freed for Ever; as ſome Mannours have been extinguiſhed by ſelling all the Lands free to the Copy-hold Tenants belonging to them, for Thirty yeares Purchaſe, becauſe of the Fines at Deaths and Alienations: their Lands might be bought thus, free of all Tenures whatſoever, and Land would be as free as it was to the Sonnes of <hi>Noah;</hi> in whoſe time it was from the Gift of God himſelfe; as it is written; <hi>Deus dedit Terram filiis hominum;</hi> God gave the Earth to the Sonnes of Men. This would aboliſh and make voyde a great part of the Common Lawes of <hi>England,</hi> and take away the grievance and burthenſomneſſe of innumerable intricate Lawes; it would aboliſh the Court of Wards utterly, without need of any Office to Record where Lands are holden, and without need of any Act of Parliament to doe it, without wrong to the King: and all in<g ref="char:EOLhyphen"/>feriour Court Barons without wrong to meane Lords of Mannours, to the Eaſe of the Subject for Ever: and ſo of<note n="a" place="margin">Tythes may be firſt Com<g ref="char:EOLhyphen"/>pounded for, and then bought out by the Land<g ref="char:EOLhyphen"/>lords, at about <hi>15</hi> years purchaſe, as Men ſhall come to be able: and Truſtees to receive the Money, and pay ſo much as the Rent cometh to for it, till ſo Much land be bought and ſettled for it, as will rent ſo much a yeare, for the Maintenance of the Schollers thot are to receive them.</note> Tythes in like manner, which belong to Parſonages &amp; Vicuradges, which are appurtenant to Mannours, as the Copy-hold
+<pb n="3" facs="tcp:114556:3"/>and Free-hold Lands are: and it is as much reaſon, all ſhould be quite freed from the Inferiour or meane Lords, as from the Lord Paramount, the King, and his Court of Wards: and then the Law would not hinder but that all might diſpoſe of their Lands by Will.</p>
+            <p>But whether Men dye and make Wills or no Wills,<note n="b" place="margin">Some in every Pariſh for all buſineſſes within the Pa<g ref="char:EOLhyphen"/>riſh: and ſome the Juſtices of the Peace for the County, for d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fferences in Places at Diſtance: and all to beare their owne charges and Clarks. Appeales might be to the Juſtices at every Quarter Seſsions.</note> Indifferent Men might be choſen and appointed, ei<g ref="char:EOLhyphen"/>ther to interprete the Will in ſome ſhort time, after the parties deceaſe, or to diſpoſe of the Eſtate of the Party, that made no Will, according to Equity, for the benefit of the Children and poore Kindred, as the Caſe ſhould require: and this would take away all Controverſies in Equity and Law, about Wills and Legacies, with little charge to the Parties, and it would leſſen the Publique charge for the poore; alſo it would ſo ſettle all Eſtates that few Evidences or Records, and thoſe briefe ones will need to be kept.</p>
+            <p>If all Treſpaſſes and Wrongs by Word or Deed were to be deter<g ref="char:EOLhyphen"/>mined, upon or neere the Place where it was done, by Conſcientious Men, with full power to make the Parties come <hi>viva voce,</hi> and acquitt all Matters between them to that Day, and to be bound by Bond to ſatisfie ſo much Money as the Major part ſhall award in recompence; this would put an End to another great part of the Lawes.</p>
+            <p>If alſo all writings of agreement whatſoever were made very briefe, without words of forme as are now uſed, but plainly to expreſſe the Matter; and were entred in every Pariſh, in ſome Towne-houſe of Re<g ref="char:EOLhyphen"/>cords, where the Parties dwell, within a week after the writing made, or elſe the writing to be voyde (except for petty Matters, for ſome ſhort time between neighbour and neighbour) there would be no need of going to <hi>London</hi> about Suits, nor any expence in Law at home: there would need no Court of Common-Pleas, nor Chance<g ref="char:EOLhyphen"/>ry, nor Dutchy-Court, nor any Court of Law: but a Court of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>The Court of Parliament might from time to time make Lawes, and ſee the Publique Lawes obſerved, which might be few and very briefe, concerning the puniſhment of thoſe that ſhall be found wil<g ref="char:EOLhyphen"/>fully to judge unequally, when the Right is made ſo eaſie to be diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rned. Alſo about Publique Rates and Payments of Money, that
+<pb n="4" facs="tcp:114556:4"/>all may pay according to their juſt proportion: for mending of pub<g ref="char:EOLhyphen"/>lique High-wayes, Bridges, Sea-banks, and Sluces. For keeping the poore; for ſetting People on work, that there may be no wanderers, nor beggars. For Marketts, that Meaſures be all one and the ſame throughout the Kingdome. For reſtraining common diſorder in Innes and Alehouſes, and other diſorderly Meetings. Alſo for Ordering of Hawking, Hunting, Shooting, Fiſhing and Fowling; alſo the Militia and Armes of the Kingdome: that all that are able to finde or ſerve in Armes be ready againſt all Inſurrections or Invaſions when the Parliament ſhall ſee cauſe. Alſo to order the Propaga<g ref="char:EOLhyphen"/>tion of Common Civility, Learning and Chriſtianitie by Towne-Meetings<note n="d" place="margin">Inſtead of Catechizing old People, which they cannot be brought to in any ſo profitable way as by Lo<g ref="char:EOLhyphen"/>ving conference.</note> of Conference, for inſtructing and edifying one another, and Reſolving, Doubts, every Firſt Day of the Weeke, and to have the Scriptures read; alſo the Baptiſme and Supper of Remembrance Celebra<g ref="char:EOLhyphen"/>ted, in a diſcreete Chriſtian way, without offence to any Doubting Conſcience. To which End the Orders of Schooles and Univerſities might be viewed, conſidered, and amended, from time to time, as experience ſhall teach, for the bringing up all that will ſtudy; that they may attaine the higheſt wiſdome, and ability to Teach in every Towne and moderate the Conferences, that but one ſpeake at once, (which may be done by a<note n="e" place="margin">Inſtead of Inſtitution and In<g ref="char:EOLhyphen"/>duction from the Biſhops courts.</note> Commiſſi<g ref="char:EOLhyphen"/>on from the Parliament, as other Officers of the Com<g ref="char:EOLhyphen"/>mon-wealth now have, and not otherwiſe, to avoyde the intruſion of illiterate Men to be Moderatours: when the preſent Schollers that may doe it now ſhall dye or leave their Places) and in Reſolving Doubts and Queſtions which ſhall be made, may not God ſtirre up the Spirit of wiſdome in many, in this way, as he did in <hi>Solomon,</hi> to Reſolve hard Queſtions or Doubts, nay all Doubts and Queſtions, that any can make: now when they are cleered and Re<g ref="char:EOLhyphen"/>ſolved, then <hi>Babell</hi> that Mother of Errour and Confuſion will fall, and all the Myſteries of God will be revealed: and wee ſhall all re<g ref="char:EOLhyphen"/>joyce in that meaſure, which God hath afforded in his ſeverall Gifts to All, and live in unity till the Trump ſhall blow and raiſe the Dead, and the whole Creation be reſtored, to the Glorious Liberty of the Sonnes of God.</p>
+            <p>It were convenient, that there might be no Eſtate but Abſolute, for Life or Inheritance, without Conditions and Entayles, whether
+<pb n="5" facs="tcp:114556:4"/>given by Will, or purchaſed by Deed in writing, and this would ſhor<g ref="char:EOLhyphen"/>ten all ſuits about Eſtates.</p>
+            <p>If none were to be put to Death for any thing, except for Treaſon, Rebellion, or Murther, but to make fourefold Reſtitution for Felo<g ref="char:EOLhyphen"/>nies; and if Men have not to Reſtore, they might be made to worke in ſome place of Reſtraint, till ſatisfaction be made; then Men might not looſe their lives for ſo triviall Matters, but have time to live and Repent; which Law would be full of Mercy to Mens ſoules, agreeable to the Law of Love.</p>
+            <p>The Lord <hi>Cookes</hi> foure Parts of the Inſtitutes are theſe: Firſt, of Eſtates; Secondly, of <hi>Magna Charta,</hi> and other old Statutes; Third<g ref="char:EOLhyphen"/>ly, of the Plea's of the Crowne; Fourthly, of the Juriſdiction of Courts: theſe which contain the whole ſumme of the Law, would all be rendred uſeleſſe by the former Ordering of Matters: and inſtead of the vaſt Body of the Law, a few plaine briefe Lawes, like a new <hi>Magna Charta</hi> might be made, and that to Conclude, that every one may have their Right, according to the Law of the Land, and the Law of Charity; this is <hi>Salus Populi &amp; Suprema Lex.</hi> And the briefe contence of all the Lawes, might be printed in a Table or Little Booke, for every one that can reade to make uſe of: and if any incon<g ref="char:EOLhyphen"/>venience ſhould happen to any, upon the change of ſuch a preſent re<g ref="char:EOLhyphen"/>ducement of the Common-wealth, every ones Loſſe might be con<g ref="char:EOLhyphen"/>ſidered, and if the whole be gainers, they may in Reaſon give ſome<g ref="char:EOLhyphen"/>what by way of Publique Aſſeſſment, that will pay every one downe in ready Money for a Recompence. And then all might have leiſure to ſtudy the Myſteries of Art and Nature, in their ſeverall wayes to maintaine their Outward Life, and alſo the Divine Myſteries in their ſeverall wayes of their Inward Chriſtian Life.</p>
+            <p>There will neede no Forreſt Lawes, if all Lands incloſed be bought Forreſt free, and Forreſts bounded with laſting certaine bounds as Parks are.</p>
+            <p>The Lawes ſhould be made as ſhort and plaine as could be, with<g ref="char:EOLhyphen"/>out the nice words, and Tautologies, or Repetitions of Law that are now uſed.</p>
+            <p>Sir <hi>Francis Bacon</hi> ſaith, the beſt way to Reforme a Common-wealth without diſturbance, is, to reduce it to its firſt Principles, or Primitive Order. From whence many Cuſtomes have been introduced and made Lawes, to the prejudice of true Chriſtian honeſt Liberty, by the
+<pb n="6" facs="tcp:114556:5"/>Corruption of the Times in a Common-wealth, but the Roote and foundation of Law is very Good.</p>
+            <p>The way to make the beſt Platforme for a Common-wealth, were to ſend Letters into All Countries of the world, and have a ſhort draught from thence, of all the Excellencies and Inconveniences of their Governments, &amp; ſome appointed, to compare all thoſe draughts with our Common-wealth, and then it might eaſily be mended, and made a better Common-wealth, than ever was in the world, by any humane appointment.</p>
+            <p>Alſo, that all Lands in the Kingdome might be brought to the beſt improvement, and that all Lands, which hitherto have paid nothing, may beare a juſt proportion according to their equall value in Pub<g ref="char:EOLhyphen"/>like Rates: all Commons and waſte grounds might be ſurveighed and incloſed, and put into Farmes, and the Rent imployed for the good of the Towne, or that poore people might have rather more than their portion ſeverally incloſed to themſelves, and the Reſt to be in<g ref="char:EOLhyphen"/>cloſed according to every ones juſt proportion; and that little parcels of Land lying at ſo Great a Diſtance, as they now doe in ſome Com<g ref="char:EOLhyphen"/>mon fields, may by Exchange be laid together, for the beſt Conveni<g ref="char:EOLhyphen"/>ence, and then incloſed.</p>
+            <p>Alſo where there are ill Fences without Ditches for boundaries, which cauſe unjuſt incroachments upon others Rights, that Parties might be Ordered, to give or take a Ditch, and to fell and part Trees In Fences that are in Controverſie, that Men might live together in Peace without wrong one to another for afterwards.</p>
+            <p>All theſe things may be effected without an Act of Parliament, or Repealing of former Acts or Statutes, by Commiſſions to fit Per<g ref="char:EOLhyphen"/>ſons in the ſeverall Parts of the Kingdome, with ſmall charge; and when they are effected, things cannot be reduced to the pre<g ref="char:EOLhyphen"/>ſent troubleſome way, by any new Act or Statute whatſoever after<g ref="char:EOLhyphen"/>ward.</p>
+            <p>The maine of theſe things may be ſetled in a Quarter of a yeare, without any great trouble to any Body.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114556:5"/>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:114556:6"/>
+            <head>Die Jovis, <hi>6<hi rend="sup">0</hi>
+               </hi> Julii, <hi>1648.</hi>
+            </head>
+            <p>ORdered by the Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, That all the Letters and Papers from the Commiſsioners of <hi>England</hi> in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> delivered by them to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>Scotland,</hi> or Committee of Eſtates, and ſuch Letters and Papers as they have received from the Parlia<g ref="char:EOLhyphen"/>ment of <hi>Scotland,</hi> or Committee of Eſtates, and communicated to this Houſe, be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <closer>
+               <signed>H: Elſynge, Cler.Parl.D.Com.</signed>
+            </closer>
+            <pb facs="tcp:114556:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
